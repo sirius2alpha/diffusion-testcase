@@ -1,5 +1,9 @@
 # MiniMax H3 Ref2VA: Five Pilot Cases
 
+> 这是最早的 5 条 Ref2VA 试点集，单独保留，不再扩充。
+> 正式评测请用同级的 [`../h3-eval-58/`](../h3-eval-58/README.md)（58 条，含 12 条核心
+> REF2VA + 12 条困难 REF2VA）。
+
 Five compact cases for checking reference-role following, identity consistency,
 motion transfer, sound conditioning, and multimodal composition. These are a
 curated pilot set, not a statistically representative benchmark.

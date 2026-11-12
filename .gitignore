@@ -1,0 +1,8 @@
+# Downloaded reference media (URLs live in assets/assets.csv; see fetch_assets.py)
+diffusion_testcase/h3-eval-58/assets/files/
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
